@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HapAnalytics
 - 👀 I’m interested in SQL, Tableau, Power BI Dashboards
-- 🌱 I’m currently learning Data Analyst 
+- 🌱 I’m currently learning Supply Chain Management
 - 
 
 <!---
